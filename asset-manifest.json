@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/junkgh-pages/static/css/main.5a31e55e.css",
+    "main.js": "/junkgh-pages/static/js/main.5105aed5.js",
+    "index.html": "/junkgh-pages/index.html",
+    "main.5a31e55e.css.map": "/junkgh-pages/static/css/main.5a31e55e.css.map",
+    "main.5105aed5.js.map": "/junkgh-pages/static/js/main.5105aed5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a31e55e.css",
+    "static/js/main.5105aed5.js"
+  ]
+}
